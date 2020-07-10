@@ -1,4 +1,5 @@
-# practicing mathematics with python
+# Sudoku_Solver
+A sudoku solver using the backtracking algorithm. 
 
-a way for me to practice various areas in mathematics including linear algebra 
-by coding python games and puzzles.
+practice various areas in mathematics including linear algebra by using 
+recursion and other coding techniques
